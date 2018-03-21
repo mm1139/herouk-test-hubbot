@@ -1,0 +1,16 @@
+{
+  "name": "herouk-test-hubbot",
+  "scripts": {
+  },
+  "env": {
+    "HUBOT_SLACK_TOKEN": "xoxb-333398493843-QPKmmizvIOtLqOxCMBlKkyTX"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
